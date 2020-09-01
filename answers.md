@@ -108,3 +108,50 @@ Author: Daniel Horn <dh020019@ohio.edu>
 Date:   Tue Sep 1 16:59:18 2020 -0400
 
     Initial commit
+
+answer 9:
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.DS_Store
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+answer 10:
+
+name: Daniel Horn
+git ID: dh020019
+
+
+answer 11:
+
+
+answer 12:
+
+<<<<<<< HEAD
+name: Daniel Horn
+git ID: dh020019
+=======
+CS 2400 section 109
+>>>>>>> 5afe1a5e247676284d9a40d55e57955dc0e73a19
+
+answer 13:
+
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), done.
+Daniels-MBP-2:cs2400 DantheMan$ ls -a
+.		.DS_Store	git-lab		hw		summer-labs
+..		git-lab-2	summer-hw
